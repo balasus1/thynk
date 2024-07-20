@@ -2,7 +2,7 @@
 Future plan for THyNK
 
 Used below link to learn, practice and repeat tailwindCSS to know it better.
-Time spent: 5 hrs * 3 repeats = 15 hrs spent.
+## Time spent: 5 hrs * 3 repeats = 15 hrs spent.
 
 # Courtesy: 
 Github link: https://github.com/kushald/virtualr
